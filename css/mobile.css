@@ -1,0 +1,38 @@
+@media (max-width: 1150px){
+    body{
+        max-width: 700px;
+    }
+    .cards{
+        display: inline-block;
+        margin: 0 auto;
+    }
+
+    .card-first{
+        transform: translate(0);
+        text-align: left;
+        width: 300px;
+        margin: 30px auto;
+
+    }
+
+    .card-second{
+        transform: translate(0);
+        text-align: left;
+        width: 300px;
+        margin: 30px auto;
+    }
+
+    .card-third{
+        transform: translate(0);
+        text-align: left;
+        width: 300px;
+        margin: 30px auto;
+    }
+
+    .card-fourth{
+        transform: translate(0);
+        text-align: left;
+        width: 300px;
+        margin: 30px auto;
+    }
+}
